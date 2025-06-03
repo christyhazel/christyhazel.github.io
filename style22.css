@@ -42,6 +42,10 @@ p {
     font-size: 14px;
 }
 
+ul {
+    font-size: 14px;
+}
+
 div.box {
     border-style: solid;
     border-color: darkslategray;
